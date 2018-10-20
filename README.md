@@ -1,4 +1,4 @@
-# vue-cordova
+# Vue + Webpack + Cordova
 
 > Vue for mobile apps
 
