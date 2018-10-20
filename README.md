@@ -1,6 +1,6 @@
 # Vue + Webpack + Cordova
 
-> Vue for mobile apps
+> Vue for mobile apps (in progress)
 
 ## Build Setup
 
