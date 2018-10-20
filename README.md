@@ -2,32 +2,78 @@
 
 > Vue for mobile apps (in progress)
 
-## Build Setup
+## Installation
 
-``` bash
-# install dependencies
-npm install
+### 1.Install Cordova
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for android
-npm run build-android
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
+```bash
+npm i -g cordova
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 2.Run installer
+
+```bash
+npm run installer
+```
+
+Or:
+
+```bash
+npm i && cordova platform add android && cordova platform add ios
+```
+
+## Usage
+
+### Serve Vue with hot reload
+
+```bash
+npm run dev
+```
+
+### Building Vue for minified html+js+css
+
+```bash
+npm run build
+```
+
+### Build Vue and display reports
+
+```bash
+npm run build --report
+```
+
+### Build Vue for android
+
+```bash
+npm run build-android
+```
+
+## Testing
+
+### end-to-end tests
+
+```bash
+npm run e2e
+```
+
+### unit tests
+
+```bash
+npm run unit
+```
+
+### all tests
+
+```bash
+npm run test
+```
+
+## Contribution
+
+If you want to join contribution - message me:
+
+vvmspace@gmail.com
+
+https://vk.com/it007
+
+Telegram: +79530011203
