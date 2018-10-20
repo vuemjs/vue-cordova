@@ -15,3 +15,10 @@ selenium-debug.log
 *.ntvs*
 *.njsproj
 *.sln
+
+# Cordova
+platforms/
+plugins/
+
+# WebPack Custom Dist. Folder
+www/dist/
