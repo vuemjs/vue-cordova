@@ -13,7 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit test/e2e/specs",
     "build": "node build/build.js",
     "build-android": "node build/build.js && cordova build android",
-    "installer": "npm i && cordova platform add android && cordova platform add ios"
+    "installer": "npm i && npm i -g cordova && cordova platform add android && cordova platform add ios"
   },
   "dependencies": {
     "cordova-android": "^7.0.0",
