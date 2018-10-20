@@ -5,48 +5,55 @@
     <ul>
       <li>
         <a
-          href="https://vuejs.org"
+          href="http://vuem.icu"
           target="_blank"
         >
-          Core Docs
+          Vuem
         </a>
       </li>
       <li>
         <a
-          href="https://forum.vuejs.org"
+          href="https://github.com/vuemjs"
           target="_blank"
         >
-          Forum
+          GitHub
         </a>
       </li>
       <li>
         <a
-          href="https://chat.vuejs.org"
+          href="http://radio.vvm.space"
           target="_blank"
         >
-          Community Chat
+          Radio
         </a>
       </li>
       <li>
         <a
-          href="https://twitter.com/vuejs"
+          href="https://github.com/larafull"
           target="_blank"
         >
-          Twitter
-        </a>
-      </li>
-      <br>
-      <li>
-        <a
-          href="http://vuejs-templates.github.io/webpack/"
-          target="_blank"
-        >
-          Docs for This Template
+          Larafull
         </a>
       </li>
     </ul>
     <h2>Ecosystem</h2>
     <ul>
+      <li>
+        <a
+          href="https://cordova.apache.org/docs/en/8.x/guide/cli/index.html"
+          target="_blank"
+        >
+          Cordova
+        </a>
+      </li>
+      <li>
+        <a
+          href="http://vuejs.org/"
+          target="_blank"
+        >
+          vue
+        </a>
+      </li>
       <li>
         <a
           href="http://router.vuejs.org/"
@@ -85,10 +92,10 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'HelloVuem',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to Your Vue Mobile App'
     }
   }
 }
@@ -108,6 +115,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #448b00;
 }
 </style>
