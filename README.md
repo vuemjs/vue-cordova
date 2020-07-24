@@ -76,4 +76,4 @@ vvmspace@gmail.com
 
 https://vk.com/it007
 
-Telegram: +79530011203
+Telegram: @vvmspace
